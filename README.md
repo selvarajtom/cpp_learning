@@ -157,20 +157,6 @@
 
 ---
 
-## 📊 Progress Tracker
-
-| Phase | Phase Name | Total Tasks | ✅ Done | 🔄 In Progress | ⏳ Not Started |
-|-------|------------|-------------|--------|----------------|---------------|
-| 1 | Solidify the Fundamentals | 11 | 0 | 0 | 11 |
-| 2 | OOP + Memory Ownership | 13 | 0 | 0 | 13 |
-| 3 | STL + Modern C++ Essentials | 12 | 0 | 0 | 12 |
-| 4 | File I/O + CLI Tool | 10 | 0 | 0 | 10 |
-| 5 | Templates & Generic Programming | 11 | 0 | 0 | 11 |
-| 6 | Concurrency & Performance | 15 | 0 | 0 | 15 |
-| | **TOTAL** | **72** | **0** | **0** | **72** |
-
----
-
 ## 🗂️ Repo Structure
 
 ```
